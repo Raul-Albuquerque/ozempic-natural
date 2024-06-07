@@ -1,7 +1,6 @@
 {
   "name": "ozempic-natural",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html src/styles/*.scss src/scripts/main.js --no-cache",
     "build": "parcel build src/index.html --public-url ./",
